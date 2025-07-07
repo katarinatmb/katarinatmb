@@ -22,7 +22,7 @@
 - **[Tongue Disease Prediction Based on ML Algorithms](#)**  
 Machine Learning project using Python and PyTorch to detect whether a person has heart disease based on images of their tongue.
 
-- **[Novi Sad Protest Analysis](#)**  
+- **[Novi Sad Protest Analysis](https://katarinatmb.github.io/serbia-protest-analysis/)**  
   Analyzing protest patterns by group type, region, and frequency after the Novi Sad train station roof collapse in Serbia using RStudio.
 
 ## 🎓 Education
