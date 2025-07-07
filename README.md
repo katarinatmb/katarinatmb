@@ -20,7 +20,7 @@
 ## 📈 Featured Projects
 
 - **[Tongue Disease Prediction Based on ML Algorithms](#)**  
-Machine Learning project using Python and PyTorch to detect whether a person has heart disease based on images of their tongue.
+Ongoing Machine Learning project using Python and PyTorch to detect heart disease from tongue images. Currently being developed in Jupyter. Due to sensitive healthcare data, this project cannot be made public at this time. 
 
 - **[Novi Sad Protest Analysis](https://katarinatmb.github.io/serbia-protest-analysis/)**  
   Analyzing protest patterns by group type, region, and frequency after the Novi Sad train station roof collapse in Serbia using RStudio.
