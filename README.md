@@ -19,7 +19,7 @@
 
 ## 📈 Featured Projects
 
-- **[Tongue Disease Prediction Based on ML Algorithms](#)**  
+- **[Heart Disease Prediction Based on ML Algorithms](#)**  
 Ongoing Machine Learning project using Python and PyTorch to detect heart disease from tongue and eye images.
 
 - **[Novi Sad Protest Analysis](https://katarinatmb.github.io/serbia-protest-analysis/)**  
