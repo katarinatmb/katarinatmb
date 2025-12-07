@@ -19,6 +19,9 @@
 
 ## 📈 Featured Projects
 
+- **[Predicting Gastrointenstianl Illness Severity from Beach Water Quality](https://github.com/katarinatmb/beach-illness-ml)**
+  This project explores how microbial water contamination and swimmer exposure relate to gastrointestinal (GI) illness severity among beachgoers. Using the Santa Monica Bay Epidemiological   Study dataset, the analysis compares multiple machine learning algorithms and evaluates their usefulness in environmental health risk prediction using Python.
+
 - **[Eye-Based Heart Disease Prediction](https://github.com/katarinatmb/eye-heart-disease-ml)**
   I developed a machine learning pipeline that analyzes retinal fundus images to explore whether subtle ocular features can predict heart disease. The project includes image preprocessing,      CNN modeling, logistic regression benchmarking, and full evaluation with accuracy and classification metrics. This work highlights the potential of non-invasive imaging as an early            cardiovascular screening tool.
 
