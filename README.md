@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Katarina!
 
-**Registered Nurse (BSN) | Master’s Degree in Applied Data Science**
+**Registered Nurse (BSN) | Master’s Degree in Applied Data Science (MSDS)**
 
 <p>I am an experienced registered nurse with a Bachelor’s degree in Nursing and a passion for leveraging data to improve healthcare outcomes. Currently, I have a Master’s in Applied Data Science, where I am building expertise in data analytics, visualization, and statistical modeling. My unique background at the bedside and in the classroom allows me to bridge the gap between clinical practice and data-driven healthcare solutions.</p>
 
