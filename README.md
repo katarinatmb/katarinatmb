@@ -28,7 +28,7 @@
 - **[Novi Sad, Serbia Protest Analysis](https://katarinatmb.github.io/serbia-protest-analysis/)**  
   Analyzing protest patterns by group type, region, and frequency after the Novi Sad train station roof collapse in Serbia using RStudio.
 
-- **[Predicting Heart Disease from Clinical and Demographic Data](https://github.com/katarinatmb/heart-disease-prediction)**
+- **[Predicting Heart Disease from Clinical and Demographic Data](https://github.com/katarinatmb/predict-heart-disease)**
    This project applies machine learning to predict heart disease presence using clinical 
 and demographic data from the UCI Heart Disease Dataset. The goal was to compare three distinct 
 machine learning approaches: a Neural Network, Support Vector Machine (SVM), and Naive 
