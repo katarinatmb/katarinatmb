@@ -19,11 +19,19 @@
 
 ## 📈 Featured Projects
 
+###  Multi-Modal Cardiovascular Disease Detection Series
+*Exploring non-invasive cardiovascular screening through complementary imaging modalities*
+
+- **[Eye-Based Heart Disease Prediction](https://github.com/katarinatmb/eye-heart-disease-ml)** (AUC: 0.732)  
+  Developed a machine learning pipeline analyzing retinal fundus images using CNNs and logistic regression to predict cardiovascular disease from subtle ocular features. This project demonstrates the potential of microvascular eye patterns as early screening biomarkers and serves as the foundation for multi-modal diagnostic research.
+
+- **[Tongue-Based Heart Disease Detection](https://github.com/katarinatmb/Tongue-Based-Detection)** (AUC: 0.605)  
+  Applied deep learning CNNs to tongue photographs, building upon Traditional Chinese Medicine diagnostic principles to detect cardiovascular disease through automated image analysis. This complementary approach involved extensive manual quality control of non-standardized images and establishes proof-of-concept for computational tongue diagnosis.
+
+---
+
 - **[Predicting Gastrointenstianl Illness Severity from Beach Water Quality](https://github.com/katarinatmb/beach-illness-ml)**
   This project explores how microbial water contamination and swimmer exposure relate to gastrointestinal (GI) illness severity among beachgoers. Using the Santa Monica Bay Epidemiological   Study dataset, the analysis compares multiple machine learning algorithms and evaluates their usefulness in environmental health risk prediction using Python.
-
-- **[Eye-Based Heart Disease Prediction](https://github.com/katarinatmb/eye-heart-disease-ml)**
-  I developed a machine learning pipeline that analyzes retinal fundus images to explore whether subtle ocular features can predict heart disease. The project includes image preprocessing,      CNN modeling, logistic regression benchmarking, and full evaluation with accuracy and classification metrics. This work highlights the potential of non-invasive imaging as an early            cardiovascular screening tool.
 
 - **[Novi Sad, Serbia Protest Analysis](https://katarinatmb.github.io/serbia-protest-analysis/)**  
   Analyzing protest patterns by group type, region, and frequency after the Novi Sad train station roof collapse in Serbia using RStudio.
