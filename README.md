@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Katarina!
 
-**Registered Nurse (BSN) | Master’s Student in Applied Data Science (Graduating December 2025)**
+**Registered Nurse (BSN) | Master’s Degree in Applied Data Science**
 
-<p>I am an experienced registered nurse with a Bachelor’s degree in Nursing and a passion for leveraging data to improve healthcare outcomes. Currently, I am pursuing my Master’s in Applied Data Science, where I am building expertise in data analytics, visualization, and statistical modeling. My unique background at the bedside and in the classroom allows me to bridge the gap between clinical practice and data-driven healthcare solutions.</p>
+<p>I am an experienced registered nurse with a Bachelor’s degree in Nursing and a passion for leveraging data to improve healthcare outcomes. Currently, I have a Master’s in Applied Data Science, where I am building expertise in data analytics, visualization, and statistical modeling. My unique background at the bedside and in the classroom allows me to bridge the gap between clinical practice and data-driven healthcare solutions.</p>
 
 ## 🩺 Professional Interests
 
@@ -20,14 +20,14 @@
 ## 📈 Featured Projects
 
 - **[Tongue Disease Prediction Based on ML Algorithms](#)**  
-Ongoing Machine Learning project using Python and PyTorch to detect heart disease from tongue images. Currently being developed in Jupyter. Due to sensitive healthcare data, this project cannot be made public at this time. 
+Ongoing Machine Learning project using Python and PyTorch to detect heart disease from tongue and eye images.
 
 - **[Novi Sad Protest Analysis](https://katarinatmb.github.io/serbia-protest-analysis/)**  
   Analyzing protest patterns by group type, region, and frequency after the Novi Sad train station roof collapse in Serbia using RStudio.
 
 ## 🎓 Education
 
-- **Master of Applied Data Science** (Expected December 2025)
+- **Master of Applied Data Science** 
 - **Bachelor of Science in Nursing**
 
 <h2>⚡️ Where to find me</h2>
