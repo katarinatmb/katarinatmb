@@ -19,8 +19,9 @@
 
 ## 📈 Featured Projects
 
-- **[Heart Disease Prediction Based on ML Algorithms](#)**  
-Ongoing Machine Learning project using Python and PyTorch to detect heart disease from tongue and eye images.
+- **[Eye-Based Heart Disease Prediction]**
+I developed a machine learning pipeline that analyzes retinal fundus images to explore whether subtle ocular features can predict heart disease. The project includes image preprocessing, CNN modeling, logistic regression benchmarking, and full evaluation with accuracy and classification metrics. This work highlights the potential of non-invasive imaging as an early cardiovascular screening tool.
+**Read the full project here: https://<katarinatmb>.github.io/eye-heart-disease-ml/**
 
 - **[Novi Sad Protest Analysis](https://katarinatmb.github.io/serbia-protest-analysis/)**  
   Analyzing protest patterns by group type, region, and frequency after the Novi Sad train station roof collapse in Serbia using RStudio.
