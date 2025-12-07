@@ -19,9 +19,8 @@
 
 ## 📈 Featured Projects
 
-- **[Eye-Based Heart Disease Prediction]**
-I developed a machine learning pipeline that analyzes retinal fundus images to explore whether subtle ocular features can predict heart disease. The project includes image preprocessing, CNN modeling, logistic regression benchmarking, and full evaluation with accuracy and classification metrics. This work highlights the potential of non-invasive imaging as an early cardiovascular screening tool.
-**Read the full project here: https://<katarinatmb>.github.io/eye-heart-disease-ml/**
+- **[Eye-Based Heart Disease Prediction](https://<katarinatmb>.github.io/eye-heart-disease-ml/)**
+  I developed a machine learning pipeline that analyzes retinal fundus images to explore whether subtle ocular features can predict heart disease. The project includes image preprocessing,      CNN modeling, logistic regression benchmarking, and full evaluation with accuracy and classification metrics. This work highlights the potential of non-invasive imaging as an early            cardiovascular screening tool.
 
 - **[Novi Sad Protest Analysis](https://katarinatmb.github.io/serbia-protest-analysis/)**  
   Analyzing protest patterns by group type, region, and frequency after the Novi Sad train station roof collapse in Serbia using RStudio.
